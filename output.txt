@@ -1,0 +1,5 @@
+23 is prime
+12 not prime
+13 is prime
+39 not prime
+55 not prime
